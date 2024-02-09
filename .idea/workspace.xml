@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c98c1ff4-6804-4713-9cae-d4b083327f5e" name="Changes" comment="Task1">
+    <list default="true" id="c98c1ff4-6804-4713-9cae-d4b083327f5e" name="Changes" comment="Task1withReadMe">
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
@@ -25,6 +25,7 @@
       <change afterPath="$PROJECT_DIR$/src/main/java/library/storageMedium/Microfilm.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/library/storageMedium/MicrofilmType.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/library/storageMedium/StorageMedium.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,12 +62,17 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/Владислав/IdeaProjects/FinalAutoTestTask2",
+    "last_opened_file_path": "C:/Users/Владислав/IdeaProjects/FinalAutoTestTask1/src/main/resources",
     "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Владислав\IdeaProjects\FinalAutoTestTask1\src\main\resources" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="library.Main" />
@@ -100,6 +106,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Task1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task1" />
+    <MESSAGE value="Task1withReadMe" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task1withReadMe" />
   </component>
 </project>
